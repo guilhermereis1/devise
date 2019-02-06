@@ -711,15 +711,8 @@ Read more about the potential issues at http://guides.rubyonrails.org/asset_pipe
 Devise is based on Warden, which is a general Rack authentication framework created by Daniel Neighman. We encourage you to read more about Warden here:
 
 https://github.com/hassox/warden
+Guilherme Reis
 
-### Contributors
+* https://www.worldcode.com.br
 
-We have a long list of valued contributors. Check them all at:
-
-https://github.com/plataformatec/devise/graphs/contributors
-
-## License
-
-MIT License. Copyright 2009-2018 Plataformatec. http://plataformatec.com.br
-
-You are not granted rights or licenses to the trademarks of Plataformatec, including without limitation the Devise name or logo.
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
